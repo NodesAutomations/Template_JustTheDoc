@@ -76,15 +76,15 @@ color_scheme: nil
 callouts_level: quiet # or loud
 callouts:
   tip:
-    title: 💡Tip
+    title: Tip
     color: green
   info:
-    title: ℹ️Info
-    color: purple
+    title: Info
+    color: blue
   warning:
-    title: ⚠️Warning
+    title: Warning
     color: yellow
   danger:
-    title: 🔥Danger
+    title: Danger
     color: red
 
