@@ -1,6 +1,7 @@
 ---
 title: Typography 
 has_children: true
+math: mathjax
 ---
 
 # Header 1 
