@@ -105,6 +105,19 @@ Here is a statement with a footnote.[^1]
 | Row 1    | Data 1   | Data 2   |
 | Row 2    | Data 3   | Data 4   |
 
+| Class   | Small screen size `font-size`  | Large screen size `font-size` |
+|:--------|:-------------------------------|:------------------------------|
+| `.fs-1` | 9px                            | 10px                          |
+| `.fs-2` | 11px                           | 12px                          |
+| `.fs-3` | 12px                           | 14px                          |
+| `.fs-4` | 14px                           | 16px                          |
+| `.fs-5` | 16px                           | 18px                          |
+| `.fs-6` | 18px                           | 24px                          |
+| `.fs-7` | 24px                           | 32px                          |
+| `.fs-8` | 32px                           | 38px                          |
+| `.fs-9` | 38px                           | 42px                          |
+| `.fs-10`| 42px                           | 48px                          |
+
 # Table with Math
 | **Part** | **Formula** | **Calculation** | **Area (mm²)** |
 | :---: | :---: | :---: | :---: |
