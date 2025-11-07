@@ -70,6 +70,26 @@ print("Hello, World!")
 > This is a blockquote. It can span multiple lines.
 > Second line of blockquote.
 
+# Call outs
+
+{: .tip }
+Tip/Idea callout
+
+{: .info }
+Info Type Callout
+
+{: .warning }
+warning Type Callout
+
+{: .danger }
+danger Type Callout
+
+
+
+ 
+
+ 
+
 # Math
 Inline math: $E = mc^2$
 
