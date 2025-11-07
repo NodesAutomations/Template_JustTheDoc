@@ -135,7 +135,7 @@ Here is a statement with a footnote.[^1]
 ---
 
 # Image Local
-![Sample Image](assets/Sample.png "Sample Image")
+![Nodes Logo](../assets/images/logo.webp)
 
 # Image Online
 ![Sample Image](https://nodesautomations.com/assets/images/home.webp)
