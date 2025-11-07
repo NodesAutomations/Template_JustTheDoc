@@ -100,6 +100,7 @@ Here is a statement with a footnote.[^1]
 [^1]: This is the footnote text.
 
 # Table
+
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
 | Row 1    | Data 1   | Data 2   |
@@ -119,6 +120,7 @@ Here is a statement with a footnote.[^1]
 | `.fs-10`| 42px                           | 48px                          |
 
 # Table with Math
+
 | **Part** | **Formula** | **Calculation** | **Area (mm²)** |
 | :---: | :---: | :---: | :---: |
 | Top Flange | $bf_1 \times tf_1$ | $130 \times 10$ | 1300 |
